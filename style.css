@@ -21,7 +21,7 @@
     border-collapse: collapse;
     margin-top: 20px;
     font-color:black;
-    background-color:144, 238, 144
+    background-color:144, 238, 144;
     grid-column-start: 1;
     grid-column-end: 3;
     
@@ -53,7 +53,7 @@
     padding: 10px;
     color: red;
     font-size: 75px;
-    border:red;
+    border: 1px solid red;
     
 }
 
@@ -62,7 +62,7 @@
     margin-top: 20px;
     padding: 10px;
     color:green;
-    border:green;
+    border: 1px solid green;
 }
 
 .nav-list{
@@ -71,5 +71,5 @@
     margin-top: 20px;
     text-align: left;
     color:darkgreen;
-    border:darkgreen;
+    border: 1px solid darkgreen;
 }
