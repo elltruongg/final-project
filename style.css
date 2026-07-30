@@ -11,8 +11,8 @@
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    color:black;
-    border: green;
+    background-color:144, 238, 144;
+    border: black;
     
 }
 
@@ -41,19 +41,23 @@
     text-align: left;
     margin-top: 20px;
     padding: 10px;
-    font-color:green;
+    font-color:black;
     background-color:144, 238, 144;
     grid-column-start:2;
     grid-column-end:3;
+    background-color: green;
+    border: 1px solid darkgreen;
+
 }
 
 .h1{
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    color: red;
+    font-color: black;
+    background-color:red;
     font-size: 75px;
-    border: 1px solid red;
+    border: 1px solid darkred;
     
 }
 
@@ -61,8 +65,9 @@
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    color:green;
-    border: 1px solid green;
+    font-color:black;
+    border: 1px solid darkgreen;
+    backgournd-color:green;
 }
 
 .nav-list{
