@@ -41,7 +41,7 @@
     text-align: left;
     margin-top: 20px;
     padding: 10px;
-    color:green;
+    font-color:green;
     background-color:144, 238, 144;
     grid-column-start:2;
     grid-column-end:3;
